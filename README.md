@@ -2,15 +2,17 @@
 
 <p align="center"><a href="https://t.me/NobleWolf"><img src="https://telegra.ph/file/e6b0c499dd0254ddce6b6.jpg" width="5000"></a></p> 
 
-## • About me 🦸‍♂️
+### • About me 🦸‍♂️
 
-- 👨‍💻 I'm a Student.
-- 🎯 Knowledge: Absolute Beginner 🙂 `#noob`
-- ⚡ Fun Fact: You are too Early here, i haven't started yet ;)
+```
 
----
+• 👨‍💻 I'm a Student.
+• 🎯 Knowledge: Absolute Beginner 🙂 `#noob`
+• ⚡ Fun Fact: You are too Early here, i haven't started yet ;)
 
-##
+```
+
+#
 <details>
     <summary><b>Learning 📖</b></summary><br/>
 
@@ -19,9 +21,7 @@
 
 </details>
 
----
-
-##
+#
 <details>
     <summary><b>My Stuff 🛠️</b></summary><br/>
     
@@ -48,15 +48,13 @@
 
 </details>
 
----
 
-## • GitHub Stats 📊 #joke
+#### • GitHub Stats 📊 #joke
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=N0BLEWOLF&show_icons=true&theme=radical&no-frame=true)](https://github.com/N0BLEWOLF)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=N0BLEWOLF&show_icons=true&theme=radical&no-frame=true&hide_border=true)](https://github.com/N0BLEWOLF)
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=N0BLEWOLF&theme=radical&no-frame=true)](https://github.com/N0BLEWOLF)
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=N0BLEWOLF&theme=radical&no-frame=true&no-bg=true)](https://github.com/N0BLEWOLF)
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=N0BLEWOLF&theme=radical&no-frame=true&no-bg=true&hide_border=true)](https://github.com/N0BLEWOLF)
 
----
 
 ##
 <details>
