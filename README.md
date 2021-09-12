@@ -12,34 +12,30 @@
 
 ```
 
-#
+##
 <details>
-    <summary><b>Learning 📖</b></summary><br/>
+    <summary><b>Brief Description📔</b></summary><br/>
+    
+
+### Currently Learning 🚀
 
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](https://python.org)
 [![Cplusplus](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)](https://cplusplus.org)
 
-</details>
-
-#
-<details>
-    <summary><b>My Stuff 🛠️</b></summary><br/>
-    
-
-### • Systems 👨‍💻
+### Systems 👨‍💻
 
 [![Android](https://img.shields.io/badge/Android-black?&logo=Android&style=for-the-badge)](https://android.com/)
 [![Arch](https://img.shields.io/badge/Arch-black?&logo=Arch-Linux&style=for-the-badge)](https://archlinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-black?&logo=Windows&style=for-the-badge)](https://www.microsoft.com/en-in/windows/)
 
-### • Hobbies 😉
+### Hobbies 😉
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?logo=telegram&style=for-the-badge)](https://telegram.dog/)
 [![Photoshop](https://img.shields.io/badge/-PhotoShop-222222?style=for-the-badge&logo=adobephotoshop)](https://www.photoshop.com/en)
 [![VS Code](https://img.shields.io/badge/-VSCode-222222?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-222222?style=for-the-badge&logo=spotify)](https://spotify.com/)
 
-### • Things I love 😘
+### Things I love 😘
 
 [![Heroku](https://img.shields.io/badge/-Heroku-222222?logo=heroku&style=for-the-badge)](https://heroku.com/)
 [![Railway](https://img.shields.io/badge/-Railway-222222?logo=railway&style=for-the-badge)](https://railway.app/)
@@ -48,13 +44,16 @@
 
 </details>
 
-
-#### • GitHub Stats 📊 #joke
+##
+<details>
+    <summary><b>GitHub Stats 📊 #joke</b></summary><br/>
+    
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=N0BLEWOLF&show_icons=true&theme=radical&no-frame=true&hide_border=true)](https://github.com/N0BLEWOLF)
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=N0BLEWOLF&theme=radical&no-frame=true)](https://github.com/N0BLEWOLF)
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=N0BLEWOLF&theme=radical&no-frame=true&no-bg=true&hide_border=true)](https://github.com/N0BLEWOLF)
 
+</details>
 
 ##
 <details>
