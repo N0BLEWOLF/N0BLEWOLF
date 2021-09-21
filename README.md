@@ -2,14 +2,12 @@
 
 <p align="center"><a href="https://t.me/NobleWolf"><img src="https://telegra.ph/file/e6b0c499dd0254ddce6b6.jpg" width="5000"></a></p> 
 
-### • About me 🦸‍♂️
+### About me 🦸‍♂️
 
 ```
-
 • 👨‍💻 I'm a Student.
-• 🎯 Knowledge: Absolute Beginner 🙂 `#noob`
+• 🎯 Knowledge: Absolute Beginner 🙂 #noob
 • ⚡ Fun Fact: You are too Early here, i haven't started yet ;)
-
 ```
 
 ##
@@ -17,25 +15,26 @@
     <summary><b>Brief Description📔</b></summary><br/>
     
 
-### Currently Learning 🚀
+#### Currently Learning 🚀
 
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](https://python.org)
 [![Cplusplus](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)](https://cplusplus.org)
 
-### Systems 👨‍💻
+#### Systems 👨‍💻
 
 [![Android](https://img.shields.io/badge/Android-black?&logo=Android&style=for-the-badge)](https://android.com/)
 [![Arch](https://img.shields.io/badge/Arch-black?&logo=Arch-Linux&style=for-the-badge)](https://archlinux.org/)
+[![Kali](https://img.shields.io/badge/Kali-black?&logo=kalilinux&style=for-the-badge)](https://kali.org/)
 [![Windows](https://img.shields.io/badge/Windows-black?&logo=Windows&style=for-the-badge)](https://www.microsoft.com/en-in/windows/)
 
-### Hobbies 😉
+#### Hobbies 😉
 
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?logo=telegram&style=for-the-badge)](https://telegram.dog/)
 [![Photoshop](https://img.shields.io/badge/-PhotoShop-222222?style=for-the-badge&logo=adobephotoshop)](https://www.photoshop.com/en)
 [![VS Code](https://img.shields.io/badge/-VSCode-222222?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-222222?style=for-the-badge&logo=spotify)](https://spotify.com/)
 
-### Things I love 😘
+#### Platforms I love 😘
 
 [![Heroku](https://img.shields.io/badge/-Heroku-222222?logo=heroku&style=for-the-badge)](https://heroku.com/)
 [![Railway](https://img.shields.io/badge/-Railway-222222?logo=railway&style=for-the-badge)](https://railway.app/)
@@ -63,3 +62,7 @@
 [![Email Badge](https://img.shields.io/badge/NobleWolf-30302f?style=for-the-badge&logo=gmail)](mailto:noblewolf08@outlook.com)
 
 </details>
+
+> [The Reason why i Wrote this ReadMe?](https://telegra.ph/file/99d17ea83f3e27ccd7a1d.jpg)
+
+> That's it! You can Go Now.
