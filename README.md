@@ -19,6 +19,8 @@
 
 [![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)](https://python.org)
 [![Cplusplus](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)](https://cplusplus.org)
+[![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html5)](https://html.com)
+[![CSS](https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3)](https://html.com)
 
 #### Systems 👨‍💻
 
@@ -29,17 +31,17 @@
 
 #### Hobbies 😉
 
-[![Telegram](https://img.shields.io/badge/-Telegram-222222?logo=telegram&style=for-the-badge)](https://telegram.dog/)
-[![Photoshop](https://img.shields.io/badge/-PhotoShop-222222?style=for-the-badge&logo=adobephotoshop)](https://www.photoshop.com/en)
-[![VS Code](https://img.shields.io/badge/-VSCode-222222?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-222222?style=for-the-badge&logo=spotify)](https://spotify.com/)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?logo=telegram&style=for-the-badge)](https://telegram.dog/)
+[![Photoshop](https://img.shields.io/badge/-PhotoShop-black?style=for-the-badge&logo=adobephotoshop)](https://www.photoshop.com/en)
+[![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+[![Spotify](https://img.shields.io/badge/-Spotify-black?style=for-the-badge&logo=spotify)](https://spotify.com/)
 
 #### Platforms I love 😘
 
-[![Heroku](https://img.shields.io/badge/-Heroku-222222?logo=heroku&style=for-the-badge)](https://heroku.com/)
-[![Railway](https://img.shields.io/badge/-Railway-222222?logo=railway&style=for-the-badge)](https://railway.app/)
-[![Github](https://img.shields.io/badge/-GitHub-222222?logo=github&style=for-the-badge)](https://git-scm.com/)
-[![Vercel](https://img.shields.io/badge/-Vercel-222222?logo=vercel&style=for-the-badge)](https://vercel.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-black?logo=heroku&style=for-the-badge)](https://heroku.com/)
+[![Railway](https://img.shields.io/badge/-Railway-black?logo=railway&style=for-the-badge)](https://railway.app/)
+[![Github](https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge)](https://git-scm.com/)
+[![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&style=for-the-badge)](https://vercel.com/)
 
 </details>
 
@@ -47,10 +49,12 @@
 <details>
     <summary><b>GitHub Stats 📊 #joke</b></summary><br/>
     
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=N0BLEWOLF&show_icons=true&theme=radical&no-frame=true&hide_border=true)](https://github.com/N0BLEWOLF)
-[![My Trophies](https://github-profile-trophy.vercel.app/?username=N0BLEWOLF&theme=radical&no-frame=true)](https://github.com/N0BLEWOLF)
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=N0BLEWOLF&theme=radical&no-frame=true&no-bg=true&hide_border=true)](https://github.com/N0BLEWOLF)
+<p align="center">
+   <a href="https://github.com/N0BLEWOLF"> <img src="https://github-readme-stats.vercel.app/api?username=N0BLEWOLF&show_icons=true&theme=radical&no-frame=true&hide_border=true" alt="stats" /> </a>
+   <a href="https://github.com/N0BLEWOLF"> <img src="https://github-profile-trophy.vercel.app/?username=N0BLEWOLF&theme=radical&no-frame=true" alt="trophies" /> </a>
+   <a href="https://github.com/N0BLEWOLF"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0BLEWOLF&layout=compact&theme=radical&no-bg=true&hide_border=true" alt="languages" /> </a>
+   <a href="https://github.com/N0BLEWOLF"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0BLEWOLF&theme=radical&no-frame=true&no-bg=true&hide_border=true" alt="streak" /> </a>
+</p>
 
 </details>
 
@@ -64,6 +68,10 @@
 </details>
 
 ---
+
+<p align="center">
+   <a href="https://github.com/N0BLEWOLF"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/N0BLEWOLF/&title=Visitors"
+</p>
 
 > [The Reason why i Wrote this ReadMe?](https://telegra.ph/file/99d17ea83f3e27ccd7a1d.jpg)
 
