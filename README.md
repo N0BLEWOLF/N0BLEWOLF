@@ -70,13 +70,8 @@
 ---
 
 <p align="center">
-   <a href="https://github.com/N0BLEWOLF"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/N0BLEWOLF/&title=Visitors"
-</p>
-
-<p align="center">
    <a href="https://github.com/N0BLEWOLF"><img src="https://Visitor-badge.laobi.icu/badge?page_id=N0BLEWOLF"
 </p>
-
 
 > [The Reason why i Wrote this ReadMe?](https://telegra.ph/file/99d17ea83f3e27ccd7a1d.jpg)
 
