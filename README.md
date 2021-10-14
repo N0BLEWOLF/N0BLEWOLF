@@ -50,7 +50,7 @@
     <summary><b>GitHub Stats 📊 #joke</b></summary><br/>
     
 <p align="center">
-   <a href="https://github.com/N0BLEWOLF"> <img src="https://github-readme-stats.vercel.app/api?username=N0BLEWOLF&show_icons=true&theme=radical&no-frame=true&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true" alt="stats" /> </a>
+   <a href="https://github.com/N0BLEWOLF"> <img src="https://github-readme-stats.vercel.app/api?username=N0BLEWOLF&show_icons=true&theme=radical&no-frame=true&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true&custom_title=My+GitHub+Stats" alt="stats" /> </a>
    <a href="https://github.com/N0BLEWOLF"> <img src="https://github-profile-trophy.vercel.app/?username=N0BLEWOLF&theme=radical&no-frame=true&cache_seconds=1800" alt="trophies" /> </a>
    <a href="https://github.com/N0BLEWOLF"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0BLEWOLF&layout=compact&theme=radical&no-bg=true&hide_border=true&cache_seconds=1800" alt="languages" /> </a>
    <a href="https://github.com/N0BLEWOLF"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=N0BLEWOLF&theme=radical&no-frame=true&no-bg=true&hide_border=true&cache_seconds=1800" alt="streak" /> </a>
