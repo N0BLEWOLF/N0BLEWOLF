@@ -62,7 +62,7 @@
 <details>
     <summary><b>Contact me 🖇️</b></summary><br/>
 
-[![Telegram Badge](https://img.shields.io/badge/-NobleWolf-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NobleWolf)
+[![Telegram Badge](https://img.shields.io/badge/-NobleWolf-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itsNobleWolf)
 [![Email Badge](https://img.shields.io/badge/NobleWolf-30302f?style=for-the-badge&logo=gmail)](mailto:noblewolf08@outlook.com)
 
 </details>
