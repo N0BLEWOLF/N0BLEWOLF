@@ -1,4 +1,4 @@
-<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm 𝙂𝘼𝙐𝙍𝘼𝙑 </h1>
+<h1 align="center"> Hey! I'm 𝙂𝘼𝙐𝙍𝘼𝙑 </h1>
 
 <p align="center"><a href="https://t.me/NobleWolf"><img src="https://telegra.ph/file/e6b0c499dd0254ddce6b6.jpg" width="5000"></a></p> 
 
